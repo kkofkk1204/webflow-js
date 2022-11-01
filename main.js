@@ -24,7 +24,7 @@ var abi;
 
 
 
- // Unpkg imports
+ // Unpkg imports1
 const Web3Modal = window.Web3Modal.default;
 
 // Web3modal instance, Chosen wallet provider given by the dialog window, Address of the selected account
