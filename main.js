@@ -1,5 +1,3 @@
-function fun() {  
-  
-  
-  alert ("This is an alert dialog box");  
-};
+<script>
+  alert("This is an alert dialog box");
+</script>
